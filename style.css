@@ -45,4 +45,10 @@ body {
   #fourFloor {
     padding-left: 30px;
   }
+
+@media screen and (max-width:480px) {
+ 
+	/*　画面サイズが480px以下の場合ここの記述が適用される　*/
+ 
+}
   
